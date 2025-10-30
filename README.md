@@ -93,4 +93,4 @@ Welcome to the **most vibrant, hands-on roadmap for Web Development** you'll eve
 
 **Start your journey. Build your dreams. Shine online.** 🧠🌟🌐
 
-*Made with ❤️🚀 for curious minds by a Full Stack Developer in progress. Explore, code, and level up!*
+*Made with ❤️🚀 for curious minds by a FullStack Developer in progress. Explore, code, and level up!*
