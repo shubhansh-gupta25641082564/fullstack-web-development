@@ -93,12 +93,4 @@ Welcome to the **most vibrant, hands-on roadmap for Web Development** you'll eve
 
 **Start your journey. Build your dreams. Shine online.** 🧠🌟🌐
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/24986539/45148442-469fb180-b1da-11e8-90e5-1a5e6d8c8b84.gif" alt="Coding" width="500"/>
-</div>
-
-***
-
 *Made with ❤️🚀 for curious minds by a Full Stack Developer in progress. Explore, code, and level up!*
